@@ -4,7 +4,7 @@
 
 Este projeto android desenvolvido em Java recriando a interface da Netflix para fixar alguns conhecimentos
 
-<img src="https://imgur.com/ESKvhS4.gif](https://i.imgur.com/pbWAQlL.png" width="350"/>
+<img src="https://imgur.com/a/netflix-interface-android-LsEUbND" width="350"/>
 
 ## 🧑‍💻 Técnicas e Tecnologias
 
